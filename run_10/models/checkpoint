@@ -1,3 +1,0 @@
-model_checkpoint_path: "droniou_complete.ckpt"
-all_model_checkpoint_paths: "droniou_temp.ckpt"
-all_model_checkpoint_paths: "droniou_complete.ckpt"
