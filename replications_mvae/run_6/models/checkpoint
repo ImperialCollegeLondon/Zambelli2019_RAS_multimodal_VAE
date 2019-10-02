@@ -1,0 +1,2 @@
+model_checkpoint_path: "final_completeloss_all_conf_1.ckpt"
+all_model_checkpoint_paths: "final_completeloss_all_conf_1.ckpt"
