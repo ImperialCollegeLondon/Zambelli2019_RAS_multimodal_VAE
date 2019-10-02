@@ -1,0 +1,2 @@
+model_checkpoint_path: "vanilla_vae_compl_data.ckpt"
+all_model_checkpoint_paths: "vanilla_vae_compl_data.ckpt"
