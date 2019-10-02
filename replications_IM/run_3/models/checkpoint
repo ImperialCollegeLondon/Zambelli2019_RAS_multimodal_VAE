@@ -1,0 +1,2 @@
+model_checkpoint_path: "ff_fm_compl_data.ckpt"
+all_model_checkpoint_paths: "ff_fm_compl_data.ckpt"
