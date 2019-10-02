@@ -1,1 +1,1 @@
-Source files and scripts to contruct the database.
+Datasets for training and testing.
